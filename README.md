@@ -1,3 +1,5 @@
+Run application with mvn spring-boot:run or any IDE.
+
 Example curl for credit operation: 
 curl --location --request POST 'http://localhost:8080/user/v1/transaction' \
 --header 'Content-Type: application/json' \
